@@ -1,0 +1,28 @@
+{
+  "name": "passport-line2",
+  "version": "1.0.0",
+  "description": "Passport Line 2 Authentication Strategy for Passport",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:madeinfree/passport-line2.git"
+  },
+  "keywords": ["line", "passport"],
+  "author":
+    "Whien_Liou <sal95610@gmail.com> (https://www.facebook.com/haowei.liou)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madeinfree/passport-line2/issues"
+  },
+  "homepage": "https://github.com/madeinfree/passport-line2#readme",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "passport-oauth2": "^1.4.0",
+    "shortid": "^2.2.8"
+  }
+}
