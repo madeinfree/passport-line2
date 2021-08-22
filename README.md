@@ -44,7 +44,7 @@ passport.use(new LineStrategy({
 |callbackURL|string|no|Authorization success auto back to specifies url|
 |scopeSeparator|array|['openid','profile']|specifies scope fields|
 |useAutoLogin|boolean|true|if true set state options|
-||||
+|botPrompt|string|null|optional field (normal or aggressive)|
 
 ## Reference
 
